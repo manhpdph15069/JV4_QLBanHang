@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modules>
+  <module moduleId="org.eclipse.jst.jee.server:test" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:DemoSlide5" serverId="Tomcat 9 at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:SANGTMPH17730_LAB" serverId="Tomcat v9.0 Server at localhost"/>
+</modules>

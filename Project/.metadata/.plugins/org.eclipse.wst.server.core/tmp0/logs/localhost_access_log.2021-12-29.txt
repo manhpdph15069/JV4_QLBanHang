@@ -1,0 +1,6 @@
+127.0.0.1 - - [29/Dec/2021:10:54:58 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [29/Dec/2021:10:55:00 +0700] "GET /DemoSlide5/view/layout.jsp HTTP/1.1" 200 699
+0:0:0:0:0:0:0:1 - - [29/Dec/2021:10:55:00 +0700] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [29/Dec/2021:10:55:38 +0700] "GET /DemoSlide5/view/layout.jsp HTTP/1.1" 200 2345
+0:0:0:0:0:0:0:1 - - [29/Dec/2021:10:56:12 +0700] "GET /DemoSlide5/view/layout.jsp HTTP/1.1" 200 1737
+0:0:0:0:0:0:0:1 - - [29/Dec/2021:10:57:55 +0700] "GET /DemoSlide5/view/layout.jsp HTTP/1.1" 200 1740
